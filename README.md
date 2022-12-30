@@ -20,7 +20,7 @@ python -u slp_stats.py -n "SCTR#790" -s "lcancels" -c "Ganondorf"
 
 ## Dependencies
 
-Make sure to run the following command to install slippi-js before trying to run any of the scripts
+Make sure to run the following command to install [slippi-js](https://github.com/project-slippi/slippi-js) before trying to run any of the scripts
 
 ```bash
 npm install @slippi/slippi-js```
