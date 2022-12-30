@@ -100,6 +100,7 @@ def get_data_from_jsons(jsons: list, target_name: str, stat_path: list):
 
 def character_to_id(character_name: str):
     CHARACTERS = {
+        "falcon": 0,
         "dk" : 1,
         "donkey_kong" : 1,
         "fox" : 2,
