@@ -1,0 +1,2959 @@
+{
+    "metadata": {
+        "lastFrame": 11505,
+        "playedOn": "dolphin",
+        "players": {
+            "0": {
+                "characters": {
+                    "26": 14020
+                },
+                "names": {
+                    "code": "DOON#437",
+                    "netplay": "Bardoon"
+                }
+            },
+            "1": {
+                "characters": {
+                    "22": 14020
+                },
+                "names": {
+                    "code": "SCTR#790",
+                    "netplay": "Scattercatt"
+                }
+            }
+        },
+        "startAt": "2021-04-17T05:06:55Z"
+    },
+    "players": [
+        {
+            "blackStockIcon": false,
+            "characterColor": 2,
+            "characterId": 23,
+            "connectCode": "DOON#437",
+            "controllerFix": "UCF",
+            "cpuLevel": 1,
+            "defenseRatio": 1,
+            "displayName": "Bardoon",
+            "handicap": 9,
+            "invisible": false,
+            "lowGravity": false,
+            "metal": false,
+            "modelScale": 1,
+            "nametag": "",
+            "offenseRatio": 1,
+            "playerIndex": 0,
+            "port": 1,
+            "rumbleEnabled": false,
+            "silentCharacter": false,
+            "staminaMode": false,
+            "startOnAngelPlatform": false,
+            "startStocks": 4,
+            "teamId": 0,
+            "teamShade": 0,
+            "type": 0,
+            "userId": ""
+        },
+        {
+            "blackStockIcon": false,
+            "characterColor": 0,
+            "characterId": 20,
+            "connectCode": "SCTR#790",
+            "controllerFix": "UCF",
+            "cpuLevel": 1,
+            "defenseRatio": 1,
+            "displayName": "Scattercatt",
+            "handicap": 9,
+            "invisible": false,
+            "lowGravity": false,
+            "metal": false,
+            "modelScale": 1,
+            "nametag": "",
+            "offenseRatio": 1,
+            "playerIndex": 1,
+            "port": 2,
+            "rumbleEnabled": false,
+            "silentCharacter": false,
+            "staminaMode": false,
+            "startOnAngelPlatform": false,
+            "startStocks": 4,
+            "teamId": 0,
+            "teamShade": 0,
+            "type": 0,
+            "userId": ""
+        }
+    ],
+    "stats": {
+        "actionCounts": [
+            {
+                "airDodgeCount": 2,
+                "attackCount": {
+                    "bair": 2,
+                    "dair": 2,
+                    "dash": 7,
+                    "dsmash": 2,
+                    "dtilt": 13,
+                    "fair": 4,
+                    "fsmash": 12,
+                    "ftilt": 9,
+                    "jab1": 5,
+                    "jab2": 0,
+                    "jab3": 0,
+                    "jabm": 0,
+                    "nair": 2,
+                    "uair": 1,
+                    "usmash": 4,
+                    "utilt": 11
+                },
+                "dashDanceCount": 1,
+                "grabCount": {
+                    "fail": 8,
+                    "success": 3
+                },
+                "groundTechCount": {
+                    "away": 3,
+                    "fail": 6,
+                    "in": 1,
+                    "neutral": 0
+                },
+                "lCancelCount": {
+                    "fail": 8,
+                    "success": 1
+                },
+                "ledgegrabCount": 11,
+                "playerIndex": 0,
+                "rollCount": 15,
+                "spotDodgeCount": 0,
+                "throwCount": {
+                    "back": 0,
+                    "down": 0,
+                    "forward": 1,
+                    "up": 2
+                },
+                "wallTechCount": {
+                    "fail": 0,
+                    "success": 0
+                },
+                "wavedashCount": 0,
+                "wavelandCount": 0
+            },
+            {
+                "airDodgeCount": 3,
+                "attackCount": {
+                    "bair": 12,
+                    "dair": 24,
+                    "dash": 14,
+                    "dsmash": 2,
+                    "dtilt": 1,
+                    "fair": 6,
+                    "fsmash": 10,
+                    "ftilt": 2,
+                    "jab1": 8,
+                    "jab2": 1,
+                    "jab3": 0,
+                    "jabm": 0,
+                    "nair": 16,
+                    "uair": 2,
+                    "usmash": 2,
+                    "utilt": 0
+                },
+                "dashDanceCount": 56,
+                "grabCount": {
+                    "fail": 3,
+                    "success": 1
+                },
+                "groundTechCount": {
+                    "away": 2,
+                    "fail": 10,
+                    "in": 0,
+                    "neutral": 1
+                },
+                "lCancelCount": {
+                    "fail": 11,
+                    "success": 34
+                },
+                "ledgegrabCount": 2,
+                "playerIndex": 1,
+                "rollCount": 12,
+                "spotDodgeCount": 6,
+                "throwCount": {
+                    "back": 0,
+                    "down": 1,
+                    "forward": 0,
+                    "up": 0
+                },
+                "wallTechCount": {
+                    "fail": 0,
+                    "success": 0
+                },
+                "wavedashCount": 7,
+                "wavelandCount": 3
+            }
+        ],
+        "combos": [
+            {
+                "currentPercent": 50.400001525878906,
+                "didKill": false,
+                "endFrame": 292,
+                "endPercent": 50.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 22,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 52,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 12,
+                        "frame": 113,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 7.3600006103515625,
+                        "frame": 157,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.040000915527344,
+                        "frame": 210,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 22,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 30,
+                "didKill": false,
+                "endFrame": 658,
+                "endPercent": 30,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 442,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 6,
+                        "frame": 502,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 10,
+                        "frame": 538,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 6,
+                        "frame": 608,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 442,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 54.400001525878906,
+                "didKill": false,
+                "endFrame": 542,
+                "endPercent": 54.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 471,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 471,
+                "startPercent": 50.400001525878906
+            },
+            {
+                "currentPercent": 63.400001525878906,
+                "didKill": false,
+                "endFrame": 790,
+                "endPercent": 63.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 650,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 650,
+                "startPercent": 54.400001525878906
+            },
+            {
+                "currentPercent": 68.86000061035156,
+                "didKill": false,
+                "endFrame": 872,
+                "endPercent": 68.86000061035156,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.459999084472656,
+                        "frame": 795,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 795,
+                "startPercent": 63.400001525878906
+            },
+            {
+                "currentPercent": 96.31000518798828,
+                "didKill": false,
+                "endFrame": 1180,
+                "endPercent": 96.31000518798828,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 10.800003051757812,
+                        "frame": 965,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 7.650001525878906,
+                        "frame": 1042,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 1091,
+                        "hitCount": 1,
+                        "moveId": 15,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 965,
+                "startPercent": 68.86000061035156
+            },
+            {
+                "currentPercent": 112.31000518798828,
+                "didKill": true,
+                "endFrame": 1270,
+                "endPercent": 112.31000518798828,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 16,
+                        "frame": 1207,
+                        "hitCount": 1,
+                        "moveId": 12,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 1207,
+                "startPercent": 96.31000518798828
+            },
+            {
+                "currentPercent": 40,
+                "didKill": false,
+                "endFrame": 1702,
+                "endPercent": 40,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 1537,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 1537,
+                "startPercent": 30
+            },
+            {
+                "currentPercent": 17,
+                "didKill": false,
+                "endFrame": 1860,
+                "endPercent": 17,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 1692,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 1713,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 1692,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 26,
+                "didKill": false,
+                "endFrame": 1960,
+                "endPercent": 26,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 1891,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 1891,
+                "startPercent": 17
+            },
+            {
+                "currentPercent": 48,
+                "didKill": false,
+                "endFrame": 2011,
+                "endPercent": 48,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 1948,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 1948,
+                "startPercent": 40
+            },
+            {
+                "currentPercent": 52.84000015258789,
+                "didKill": false,
+                "endFrame": 2244,
+                "endPercent": 52.84000015258789,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 11.639999389648438,
+                        "frame": 2131,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 15.200000762939453,
+                        "frame": 2169,
+                        "hitCount": 1,
+                        "moveId": 12,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 2131,
+                "startPercent": 26
+            },
+            {
+                "currentPercent": 61.38999938964844,
+                "didKill": false,
+                "endFrame": 2356,
+                "endPercent": 61.38999938964844,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8.549999237060547,
+                        "frame": 2306,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 2306,
+                "startPercent": 52.84000015258789
+            },
+            {
+                "currentPercent": 53,
+                "didKill": false,
+                "endFrame": 2442,
+                "endPercent": 53,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 2393,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 2393,
+                "startPercent": 48
+            },
+            {
+                "currentPercent": 69.38999938964844,
+                "didKill": false,
+                "endFrame": 2513,
+                "endPercent": 69.38999938964844,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 2433,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 4,
+                        "frame": 2442,
+                        "hitCount": 1,
+                        "moveId": 3,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 2433,
+                "startPercent": 61.38999938964844
+            },
+            {
+                "currentPercent": 59,
+                "didKill": false,
+                "endFrame": 2660,
+                "endPercent": 59,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 2595,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 2595,
+                "startPercent": 53
+            },
+            {
+                "currentPercent": 89.90999603271484,
+                "didKill": false,
+                "endFrame": 2820,
+                "endPercent": 89.90999603271484,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 2641,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.519996643066406,
+                        "frame": 2721,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 2641,
+                "startPercent": 69.38999938964844
+            },
+            {
+                "currentPercent": 106.90999603271484,
+                "didKill": true,
+                "endFrame": 2901,
+                "endPercent": 106.90999603271484,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 17,
+                        "frame": 2848,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 2848,
+                "startPercent": 89.90999603271484
+            },
+            {
+                "currentPercent": 69,
+                "didKill": false,
+                "endFrame": 3294,
+                "endPercent": 69,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 3166,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 3166,
+                "startPercent": 59
+            },
+            {
+                "currentPercent": 6,
+                "didKill": false,
+                "endFrame": 3311,
+                "endPercent": 6,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 3219,
+                        "hitCount": 1,
+                        "moveId": 50,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 3219,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 90.36709594726562,
+                "didKill": false,
+                "endFrame": 3467,
+                "endPercent": 90.36709594726562,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 20.367095947265625,
+                        "frame": 3338,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 3338,
+                "startPercent": 69
+            },
+            {
+                "currentPercent": 15,
+                "didKill": false,
+                "endFrame": 3926,
+                "endPercent": 15,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 3850,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 3850,
+                "startPercent": 6
+            },
+            {
+                "currentPercent": 5,
+                "didKill": false,
+                "endFrame": 4043,
+                "endPercent": 5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 3949,
+                        "hitCount": 1,
+                        "moveId": 55,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 3936,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 37.91999816894531,
+                "didKill": false,
+                "endFrame": 4167,
+                "endPercent": 37.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 4052,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 10.919998168945312,
+                        "frame": 4090,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 4052,
+                "startPercent": 15
+            },
+            {
+                "currentPercent": 15,
+                "didKill": false,
+                "endFrame": 4275,
+                "endPercent": 15,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 4137,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 4137,
+                "startPercent": 5
+            },
+            {
+                "currentPercent": 46.91999816894531,
+                "didKill": false,
+                "endFrame": 4331,
+                "endPercent": 46.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 4252,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 4252,
+                "startPercent": 37.91999816894531
+            },
+            {
+                "currentPercent": 23,
+                "didKill": false,
+                "endFrame": 4466,
+                "endPercent": 23,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 4332,
+                        "hitCount": 1,
+                        "moveId": 62,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 4332,
+                "startPercent": 15
+            },
+            {
+                "currentPercent": 62.91999816894531,
+                "didKill": false,
+                "endFrame": 4578,
+                "endPercent": 62.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 7,
+                        "frame": 4443,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 4497,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 4443,
+                "startPercent": 46.91999816894531
+            },
+            {
+                "currentPercent": 43.85606002807617,
+                "didKill": false,
+                "endFrame": 4766,
+                "endPercent": 43.85606002807617,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 11.556060791015625,
+                        "frame": 4573,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 9.299999237060547,
+                        "frame": 4635,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 4573,
+                "startPercent": 23
+            },
+            {
+                "currentPercent": 65.91999816894531,
+                "didKill": false,
+                "endFrame": 4811,
+                "endPercent": 65.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 4754,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 4754,
+                "startPercent": 62.91999816894531
+            },
+            {
+                "currentPercent": 49.67605972290039,
+                "didKill": false,
+                "endFrame": 5003,
+                "endPercent": 49.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5.819999694824219,
+                        "frame": 4943,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 4943,
+                "startPercent": 43.85606002807617
+            },
+            {
+                "currentPercent": 74.37999725341797,
+                "didKill": false,
+                "endFrame": 5163,
+                "endPercent": 74.37999725341797,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8.459999084472656,
+                        "frame": 5083,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 5083,
+                "startPercent": 65.91999816894531
+            },
+            {
+                "currentPercent": 52.67605972290039,
+                "didKill": false,
+                "endFrame": 5448,
+                "endPercent": 52.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 5393,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 5393,
+                "startPercent": 49.67605972290039
+            },
+            {
+                "currentPercent": 88.25999450683594,
+                "didKill": false,
+                "endFrame": 5600,
+                "endPercent": 88.25999450683594,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.879997253417969,
+                        "frame": 5458,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 5484,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 5458,
+                "startPercent": 74.37999725341797
+            },
+            {
+                "currentPercent": 58.67605972290039,
+                "didKill": false,
+                "endFrame": 5670,
+                "endPercent": 58.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 5613,
+                        "hitCount": 1,
+                        "moveId": 15,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 5613,
+                "startPercent": 52.67605972290039
+            },
+            {
+                "currentPercent": 105.25999450683594,
+                "didKill": true,
+                "endFrame": 5729,
+                "endPercent": 105.25999450683594,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 17,
+                        "frame": 5652,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 5652,
+                "startPercent": 88.25999450683594
+            },
+            {
+                "currentPercent": 70.67605590820312,
+                "didKill": false,
+                "endFrame": 6080,
+                "endPercent": 70.67605590820312,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 11.999996185302734,
+                        "frame": 5997,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 5997,
+                "startPercent": 58.67605972290039
+            },
+            {
+                "currentPercent": 90.79842376708984,
+                "didKill": false,
+                "endFrame": 6150,
+                "endPercent": 90.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 20.12236785888672,
+                        "frame": 6096,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 6096,
+                "startPercent": 70.67605590820312
+            },
+            {
+                "currentPercent": 96.79842376708984,
+                "didKill": false,
+                "endFrame": 6560,
+                "endPercent": 96.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 6491,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 6491,
+                "startPercent": 90.79842376708984
+            },
+            {
+                "currentPercent": 102.79842376708984,
+                "didKill": false,
+                "endFrame": 6634,
+                "endPercent": 102.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 6577,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 6577,
+                "startPercent": 96.79842376708984
+            },
+            {
+                "currentPercent": 5.579999923706055,
+                "didKill": false,
+                "endFrame": 6890,
+                "endPercent": 5.579999923706055,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.579999923706055,
+                        "frame": 6841,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 6841,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 119.79842376708984,
+                "didKill": false,
+                "endFrame": 6979,
+                "endPercent": 119.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 6857,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 5,
+                        "frame": 6908,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 6857,
+                "startPercent": 102.79842376708984
+            },
+            {
+                "currentPercent": 28.5,
+                "didKill": false,
+                "endFrame": 7105,
+                "endPercent": 28.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 6978,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 10.920000076293945,
+                        "frame": 7026,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 6978,
+                "startPercent": 5.579999923706055
+            },
+            {
+                "currentPercent": 127.31842041015625,
+                "didKill": false,
+                "endFrame": 7154,
+                "endPercent": 127.31842041015625,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 7.519996643066406,
+                        "frame": 7026,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 7026,
+                "startPercent": 119.79842376708984
+            },
+            {
+                "currentPercent": 5,
+                "didKill": false,
+                "endFrame": 7836,
+                "endPercent": 5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 7718,
+                        "hitCount": 1,
+                        "moveId": 55,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 7701,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 37.5,
+                "didKill": false,
+                "endFrame": 8063,
+                "endPercent": 37.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 7993,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 7993,
+                "startPercent": 28.5
+            },
+            {
+                "currentPercent": 49.5,
+                "didKill": false,
+                "endFrame": 8184,
+                "endPercent": 49.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 8102,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 8102,
+                "startPercent": 37.5
+            },
+            {
+                "currentPercent": 58.5,
+                "didKill": false,
+                "endFrame": 8521,
+                "endPercent": 58.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 8442,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 8442,
+                "startPercent": 49.5
+            },
+            {
+                "currentPercent": 14.800000190734863,
+                "didKill": false,
+                "endFrame": 8682,
+                "endPercent": 14.800000190734863,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 9.800000190734863,
+                        "frame": 8600,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 8600,
+                "startPercent": 5
+            },
+            {
+                "currentPercent": 76.66000366210938,
+                "didKill": false,
+                "endFrame": 8868,
+                "endPercent": 76.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 7,
+                        "frame": 8693,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.160003662109375,
+                        "frame": 8775,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 8693,
+                "startPercent": 58.5
+            },
+            {
+                "currentPercent": 93.66000366210938,
+                "didKill": false,
+                "endFrame": 9367,
+                "endPercent": 93.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 17,
+                        "frame": 9232,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 9232,
+                "startPercent": 76.66000366210938
+            },
+            {
+                "currentPercent": 19.5,
+                "didKill": false,
+                "endFrame": 9437,
+                "endPercent": 19.5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 4.699999809265137,
+                        "frame": 9378,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 9378,
+                "startPercent": 14.800000190734863
+            },
+            {
+                "currentPercent": 105.66000366210938,
+                "didKill": false,
+                "endFrame": 9588,
+                "endPercent": 105.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 9442,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 9442,
+                "startPercent": 93.66000366210938
+            },
+            {
+                "currentPercent": 122.66000366210938,
+                "didKill": false,
+                "endFrame": 9802,
+                "endPercent": 122.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 9637,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 9701,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 9637,
+                "startPercent": 105.66000366210938
+            },
+            {
+                "currentPercent": 25.5,
+                "didKill": false,
+                "endFrame": 10180,
+                "endPercent": 25.5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 10119,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 10119,
+                "startPercent": 19.5
+            },
+            {
+                "currentPercent": 127.3900146484375,
+                "didKill": false,
+                "endFrame": 10362,
+                "endPercent": 127.3900146484375,
+                "lastHitBy": 1,
+                "moves": [],
+                "playerIndex": 0,
+                "startFrame": 10208,
+                "startPercent": 122.66000366210938
+            },
+            {
+                "currentPercent": 34.79999923706055,
+                "didKill": false,
+                "endFrame": 10423,
+                "endPercent": 34.79999923706055,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 9.299999237060547,
+                        "frame": 10335,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 10335,
+                "startPercent": 25.5
+            },
+            {
+                "currentPercent": 39.79999923706055,
+                "didKill": false,
+                "endFrame": 10563,
+                "endPercent": 39.79999923706055,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 10485,
+                        "hitCount": 1,
+                        "moveId": 53,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 10471,
+                "startPercent": 34.79999923706055
+            },
+            {
+                "currentPercent": 131.3900146484375,
+                "didKill": false,
+                "endFrame": 10675,
+                "endPercent": 131.3900146484375,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 10626,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 10626,
+                "startPercent": 127.3900146484375
+            },
+            {
+                "currentPercent": 49.69999694824219,
+                "didKill": false,
+                "endFrame": 10737,
+                "endPercent": 49.69999694824219,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 9.89999771118164,
+                        "frame": 10641,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 10641,
+                "startPercent": 39.79999923706055
+            },
+            {
+                "currentPercent": 134.3900146484375,
+                "didKill": false,
+                "endFrame": 11010,
+                "endPercent": 134.3900146484375,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 10951,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 10951,
+                "startPercent": 131.3900146484375
+            },
+            {
+                "currentPercent": 143.21002197265625,
+                "didKill": false,
+                "endFrame": 11125,
+                "endPercent": 143.21002197265625,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8.82000732421875,
+                        "frame": 11022,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "playerIndex": 0,
+                "startFrame": 11022,
+                "startPercent": 134.3900146484375
+            },
+            {
+                "currentPercent": 52.519996643066406,
+                "didKill": false,
+                "endFrame": 11332,
+                "endPercent": 52.519996643066406,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 2.8199996948242188,
+                        "frame": 11191,
+                        "hitCount": 3,
+                        "moveId": 20,
+                        "playerIndex": 0
+                    }
+                ],
+                "playerIndex": 1,
+                "startFrame": 11191,
+                "startPercent": 49.69999694824219
+            }
+        ],
+        "conversions": [
+            {
+                "currentPercent": 50.400001525878906,
+                "didKill": false,
+                "endFrame": 412,
+                "endPercent": 50.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 22,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 52,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 12,
+                        "frame": 113,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 7.3600006103515625,
+                        "frame": 157,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.040000915527344,
+                        "frame": 210,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 22,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 30,
+                "didKill": false,
+                "endFrame": 686,
+                "endPercent": 30,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 442,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 6,
+                        "frame": 502,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 10,
+                        "frame": 538,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 6,
+                        "frame": 608,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 442,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 54.400001525878906,
+                "didKill": false,
+                "endFrame": 542,
+                "endPercent": 54.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 471,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 471,
+                "startPercent": 50.400001525878906
+            },
+            {
+                "currentPercent": 63.400001525878906,
+                "didKill": false,
+                "endFrame": 790,
+                "endPercent": 63.400001525878906,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 650,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 650,
+                "startPercent": 54.400001525878906
+            },
+            {
+                "currentPercent": 68.86000061035156,
+                "didKill": false,
+                "endFrame": 876,
+                "endPercent": 68.86000061035156,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.459999084472656,
+                        "frame": 795,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 795,
+                "startPercent": 63.400001525878906
+            },
+            {
+                "currentPercent": 112.31000518798828,
+                "didKill": true,
+                "endFrame": 1270,
+                "endPercent": 112.31000518798828,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 10.800003051757812,
+                        "frame": 965,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 7.650001525878906,
+                        "frame": 1042,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 1091,
+                        "hitCount": 1,
+                        "moveId": 15,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 16,
+                        "frame": 1207,
+                        "hitCount": 1,
+                        "moveId": 12,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 965,
+                "startPercent": 68.86000061035156
+            },
+            {
+                "currentPercent": 40,
+                "didKill": false,
+                "endFrame": 1702,
+                "endPercent": 40,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 1537,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 1537,
+                "startPercent": 30
+            },
+            {
+                "currentPercent": 17,
+                "didKill": false,
+                "endFrame": 1860,
+                "endPercent": 17,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 1692,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 1713,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 1692,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 26,
+                "didKill": false,
+                "endFrame": 2024,
+                "endPercent": 26,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 1891,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 1891,
+                "startPercent": 17
+            },
+            {
+                "currentPercent": 48,
+                "didKill": false,
+                "endFrame": 2145,
+                "endPercent": 48,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 1948,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 1948,
+                "startPercent": 40
+            },
+            {
+                "currentPercent": 61.38999938964844,
+                "didKill": false,
+                "endFrame": 2360,
+                "endPercent": 61.38999938964844,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 11.639999389648438,
+                        "frame": 2131,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 15.200000762939453,
+                        "frame": 2169,
+                        "hitCount": 1,
+                        "moveId": 12,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8.549999237060547,
+                        "frame": 2306,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 2131,
+                "startPercent": 26
+            },
+            {
+                "currentPercent": 53,
+                "didKill": false,
+                "endFrame": 2450,
+                "endPercent": 53,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 2393,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 2393,
+                "startPercent": 48
+            },
+            {
+                "currentPercent": 69.38999938964844,
+                "didKill": false,
+                "endFrame": 2592,
+                "endPercent": 69.38999938964844,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 2433,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 4,
+                        "frame": 2442,
+                        "hitCount": 1,
+                        "moveId": 3,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 2433,
+                "startPercent": 61.38999938964844
+            },
+            {
+                "currentPercent": 59,
+                "didKill": false,
+                "endFrame": 2672,
+                "endPercent": 59,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 2595,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 2595,
+                "startPercent": 53
+            },
+            {
+                "currentPercent": 106.90999603271484,
+                "didKill": true,
+                "endFrame": 2901,
+                "endPercent": 106.90999603271484,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 2641,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.519996643066406,
+                        "frame": 2721,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 17,
+                        "frame": 2848,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 2641,
+                "startPercent": 69.38999938964844
+            },
+            {
+                "currentPercent": 69,
+                "didKill": false,
+                "endFrame": 3294,
+                "endPercent": 69,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 3166,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 3166,
+                "startPercent": 59
+            },
+            {
+                "currentPercent": 6,
+                "didKill": false,
+                "endFrame": 3360,
+                "endPercent": 6,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 3219,
+                        "hitCount": 1,
+                        "moveId": 50,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 3219,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 91.36709594726562,
+                "didKill": true,
+                "endFrame": 3591,
+                "endPercent": 91.36709594726562,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 20.367095947265625,
+                        "frame": 3338,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 3338,
+                "startPercent": 69
+            },
+            {
+                "currentPercent": 15,
+                "didKill": false,
+                "endFrame": 3966,
+                "endPercent": 15,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 3850,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 3850,
+                "startPercent": 6
+            },
+            {
+                "currentPercent": 5,
+                "didKill": false,
+                "endFrame": 4054,
+                "endPercent": 5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 3949,
+                        "hitCount": 1,
+                        "moveId": 55,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 3936,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 37.91999816894531,
+                "didKill": false,
+                "endFrame": 4167,
+                "endPercent": 37.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 4052,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 10.919998168945312,
+                        "frame": 4090,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 4052,
+                "startPercent": 15
+            },
+            {
+                "currentPercent": 15,
+                "didKill": false,
+                "endFrame": 4275,
+                "endPercent": 15,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 10,
+                        "frame": 4137,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 4137,
+                "startPercent": 5
+            },
+            {
+                "currentPercent": 46.91999816894531,
+                "didKill": false,
+                "endFrame": 4411,
+                "endPercent": 46.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 4252,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 4252,
+                "startPercent": 37.91999816894531
+            },
+            {
+                "currentPercent": 23,
+                "didKill": false,
+                "endFrame": 4466,
+                "endPercent": 23,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 4332,
+                        "hitCount": 1,
+                        "moveId": 62,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 4332,
+                "startPercent": 15
+            },
+            {
+                "currentPercent": 62.91999816894531,
+                "didKill": false,
+                "endFrame": 4589,
+                "endPercent": 62.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 7,
+                        "frame": 4443,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 4497,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 4443,
+                "startPercent": 46.91999816894531
+            },
+            {
+                "currentPercent": 43.85606002807617,
+                "didKill": false,
+                "endFrame": 4766,
+                "endPercent": 43.85606002807617,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 11.556060791015625,
+                        "frame": 4573,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 9.299999237060547,
+                        "frame": 4635,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 4573,
+                "startPercent": 23
+            },
+            {
+                "currentPercent": 65.91999816894531,
+                "didKill": false,
+                "endFrame": 4811,
+                "endPercent": 65.91999816894531,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 4754,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 4754,
+                "startPercent": 62.91999816894531
+            },
+            {
+                "currentPercent": 49.67605972290039,
+                "didKill": false,
+                "endFrame": 5018,
+                "endPercent": 49.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5.819999694824219,
+                        "frame": 4943,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 4943,
+                "startPercent": 43.85606002807617
+            },
+            {
+                "currentPercent": 74.37999725341797,
+                "didKill": false,
+                "endFrame": 5349,
+                "endPercent": 74.37999725341797,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8.459999084472656,
+                        "frame": 5083,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 5083,
+                "startPercent": 65.91999816894531
+            },
+            {
+                "currentPercent": 52.67605972290039,
+                "didKill": false,
+                "endFrame": 5448,
+                "endPercent": 52.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 5393,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 5393,
+                "startPercent": 49.67605972290039
+            },
+            {
+                "currentPercent": 105.25999450683594,
+                "didKill": true,
+                "endFrame": 5729,
+                "endPercent": 105.25999450683594,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.879997253417969,
+                        "frame": 5458,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8,
+                        "frame": 5484,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 17,
+                        "frame": 5652,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 5458,
+                "startPercent": 74.37999725341797
+            },
+            {
+                "currentPercent": 58.67605972290039,
+                "didKill": false,
+                "endFrame": 5675,
+                "endPercent": 58.67605972290039,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 5613,
+                        "hitCount": 1,
+                        "moveId": 15,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 5613,
+                "startPercent": 52.67605972290039
+            },
+            {
+                "currentPercent": 90.79842376708984,
+                "didKill": false,
+                "endFrame": 6328,
+                "endPercent": 90.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 11.999996185302734,
+                        "frame": 5997,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 20.12236785888672,
+                        "frame": 6096,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 5997,
+                "startPercent": 58.67605972290039
+            },
+            {
+                "currentPercent": 102.79842376708984,
+                "didKill": false,
+                "endFrame": 6780,
+                "endPercent": 102.79842376708984,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 6491,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 6,
+                        "frame": 6577,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 6491,
+                "startPercent": 90.79842376708984
+            },
+            {
+                "currentPercent": 5.579999923706055,
+                "didKill": false,
+                "endFrame": 6894,
+                "endPercent": 5.579999923706055,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 5.579999923706055,
+                        "frame": 6841,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 6841,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 127.31842041015625,
+                "didKill": true,
+                "endFrame": 7208,
+                "endPercent": 127.31842041015625,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 6857,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 5,
+                        "frame": 6908,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 7.519996643066406,
+                        "frame": 7026,
+                        "hitCount": 1,
+                        "moveId": 8,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 6857,
+                "startPercent": 102.79842376708984
+            },
+            {
+                "currentPercent": 28.5,
+                "didKill": false,
+                "endFrame": 7105,
+                "endPercent": 28.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 12,
+                        "frame": 6978,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 10.920000076293945,
+                        "frame": 7026,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 6978,
+                "startPercent": 5.579999923706055
+            },
+            {
+                "currentPercent": 5,
+                "didKill": false,
+                "endFrame": 7836,
+                "endPercent": 5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 5,
+                        "frame": 7718,
+                        "hitCount": 1,
+                        "moveId": 55,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 7701,
+                "startPercent": 0
+            },
+            {
+                "currentPercent": 49.5,
+                "didKill": false,
+                "endFrame": 8262,
+                "endPercent": 49.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 7993,
+                        "hitCount": 1,
+                        "moveId": 6,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 12,
+                        "frame": 8102,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 7993,
+                "startPercent": 28.5
+            },
+            {
+                "currentPercent": 58.5,
+                "didKill": false,
+                "endFrame": 8631,
+                "endPercent": 58.5,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 9,
+                        "frame": 8442,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 8442,
+                "startPercent": 49.5
+            },
+            {
+                "currentPercent": 14.800000190734863,
+                "didKill": false,
+                "endFrame": 8778,
+                "endPercent": 14.800000190734863,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 9.800000190734863,
+                        "frame": 8600,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 8600,
+                "startPercent": 5
+            },
+            {
+                "currentPercent": 76.66000366210938,
+                "didKill": false,
+                "endFrame": 9156,
+                "endPercent": 76.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 7,
+                        "frame": 8693,
+                        "hitCount": 1,
+                        "moveId": 19,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 11.160003662109375,
+                        "frame": 8775,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 8693,
+                "startPercent": 58.5
+            },
+            {
+                "currentPercent": 105.66000366210938,
+                "didKill": false,
+                "endFrame": 9588,
+                "endPercent": 105.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 17,
+                        "frame": 9232,
+                        "hitCount": 1,
+                        "moveId": 10,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 12,
+                        "frame": 9442,
+                        "hitCount": 1,
+                        "moveId": 17,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 9232,
+                "startPercent": 76.66000366210938
+            },
+            {
+                "currentPercent": 19.5,
+                "didKill": false,
+                "endFrame": 9447,
+                "endPercent": 19.5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 4.699999809265137,
+                        "frame": 9378,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 9378,
+                "startPercent": 14.800000190734863
+            },
+            {
+                "currentPercent": 122.66000366210938,
+                "didKill": false,
+                "endFrame": 10078,
+                "endPercent": 122.66000366210938,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 8,
+                        "frame": 9637,
+                        "hitCount": 1,
+                        "moveId": 21,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 9,
+                        "frame": 9701,
+                        "hitCount": 1,
+                        "moveId": 14,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 9637,
+                "startPercent": 105.66000366210938
+            },
+            {
+                "currentPercent": 25.5,
+                "didKill": false,
+                "endFrame": 10225,
+                "endPercent": 25.5,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 6,
+                        "frame": 10119,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 1,
+                "startFrame": 10119,
+                "startPercent": 19.5
+            },
+            {
+                "currentPercent": 127.3900146484375,
+                "didKill": false,
+                "endFrame": 10362,
+                "endPercent": 127.3900146484375,
+                "lastHitBy": 1,
+                "moves": [],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 10208,
+                "startPercent": 122.66000366210938
+            },
+            {
+                "currentPercent": 49.69999694824219,
+                "didKill": false,
+                "endFrame": 10829,
+                "endPercent": 49.69999694824219,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 9.299999237060547,
+                        "frame": 10335,
+                        "hitCount": 1,
+                        "moveId": 7,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 5,
+                        "frame": 10485,
+                        "hitCount": 1,
+                        "moveId": 53,
+                        "playerIndex": 0
+                    },
+                    {
+                        "damage": 9.89999771118164,
+                        "frame": 10641,
+                        "hitCount": 1,
+                        "moveId": 9,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 10335,
+                "startPercent": 25.5
+            },
+            {
+                "currentPercent": 131.3900146484375,
+                "didKill": false,
+                "endFrame": 10679,
+                "endPercent": 131.3900146484375,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 4,
+                        "frame": 10626,
+                        "hitCount": 1,
+                        "moveId": 2,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 0,
+                "startFrame": 10626,
+                "startPercent": 127.3900146484375
+            },
+            {
+                "currentPercent": 143.21002197265625,
+                "didKill": false,
+                "endFrame": 11347,
+                "endPercent": 143.21002197265625,
+                "lastHitBy": 1,
+                "moves": [
+                    {
+                        "damage": 3,
+                        "frame": 10951,
+                        "hitCount": 1,
+                        "moveId": 18,
+                        "playerIndex": 1
+                    },
+                    {
+                        "damage": 8.82000732421875,
+                        "frame": 11022,
+                        "hitCount": 1,
+                        "moveId": 13,
+                        "playerIndex": 1
+                    }
+                ],
+                "openingType": "neutral-win",
+                "playerIndex": 0,
+                "startFrame": 10951,
+                "startPercent": 131.3900146484375
+            },
+            {
+                "currentPercent": 52.519996643066406,
+                "didKill": false,
+                "endFrame": 11376,
+                "endPercent": 52.519996643066406,
+                "lastHitBy": 0,
+                "moves": [
+                    {
+                        "damage": 2.8199996948242188,
+                        "frame": 11191,
+                        "hitCount": 3,
+                        "moveId": 20,
+                        "playerIndex": 0
+                    }
+                ],
+                "openingType": "counter-attack",
+                "playerIndex": 1,
+                "startFrame": 11191,
+                "startPercent": 49.69999694824219
+            }
+        ],
+        "gameComplete": true,
+        "lastFrame": 11505,
+        "overall": [
+            {
+                "beneficialTradeRatio": {
+                    "count": 0,
+                    "ratio": null,
+                    "total": 0
+                },
+                "conversionCount": 23,
+                "counterHitRatio": {
+                    "count": 12,
+                    "ratio": 0.46153846153846156,
+                    "total": 26
+                },
+                "damagePerOpening": {
+                    "count": 269.2055130004883,
+                    "ratio": 11.70458752176036,
+                    "total": 23
+                },
+                "digitalInputsPerMinute": {
+                    "count": 256,
+                    "ratio": 79.83367983367984,
+                    "total": 3.2066666666666666
+                },
+                "inputCounts": {
+                    "buttons": 256,
+                    "cstick": 0,
+                    "joystick": 397,
+                    "total": 683,
+                    "triggers": 30
+                },
+                "inputsPerMinute": {
+                    "count": 683,
+                    "ratio": 212.993762993763,
+                    "total": 3.2066666666666666
+                },
+                "killCount": 2,
+                "neutralWinRatio": {
+                    "count": 11,
+                    "ratio": 0.4583333333333333,
+                    "total": 24
+                },
+                "openingsPerKill": {
+                    "count": 23,
+                    "ratio": 11.5,
+                    "total": 2
+                },
+                "playerIndex": 0,
+                "successfulConversions": {
+                    "count": 6,
+                    "ratio": 0.2608695652173913,
+                    "total": 23
+                },
+                "totalDamage": 269.2055130004883
+            },
+            {
+                "beneficialTradeRatio": {
+                    "count": 0,
+                    "ratio": null,
+                    "total": 0
+                },
+                "conversionCount": 28,
+                "counterHitRatio": {
+                    "count": 14,
+                    "ratio": 0.5384615384615384,
+                    "total": 26
+                },
+                "damagePerOpening": {
+                    "count": 462.9600067138672,
+                    "ratio": 16.534285954066686,
+                    "total": 28
+                },
+                "digitalInputsPerMinute": {
+                    "count": 393,
+                    "ratio": 122.55717255717256,
+                    "total": 3.2066666666666666
+                },
+                "inputCounts": {
+                    "buttons": 393,
+                    "cstick": 104,
+                    "joystick": 632,
+                    "total": 1245,
+                    "triggers": 116
+                },
+                "inputsPerMinute": {
+                    "count": 1245,
+                    "ratio": 388.25363825363826,
+                    "total": 3.2066666666666666
+                },
+                "killCount": 3,
+                "neutralWinRatio": {
+                    "count": 13,
+                    "ratio": 0.5416666666666666,
+                    "total": 24
+                },
+                "openingsPerKill": {
+                    "count": 28,
+                    "ratio": 9.333333333333334,
+                    "total": 3
+                },
+                "playerIndex": 1,
+                "successfulConversions": {
+                    "count": 15,
+                    "ratio": 0.5357142857142857,
+                    "total": 28
+                },
+                "totalDamage": 462.9600067138672
+            }
+        ],
+        "playableFrameCount": 11544,
+        "stocks": [
+            {
+                "count": 4,
+                "currentPercent": 112.31000518798828,
+                "deathAnimation": 2,
+                "endFrame": 1270,
+                "endPercent": 112.31000518798828,
+                "playerIndex": 0,
+                "startFrame": -123,
+                "startPercent": 0
+            },
+            {
+                "count": 4,
+                "currentPercent": 91.36709594726562,
+                "deathAnimation": 0,
+                "endFrame": 3591,
+                "endPercent": 91.36709594726562,
+                "playerIndex": 1,
+                "startFrame": -123,
+                "startPercent": 0
+            },
+            {
+                "count": 3,
+                "currentPercent": 106.90999603271484,
+                "deathAnimation": 2,
+                "endFrame": 2901,
+                "endPercent": 106.90999603271484,
+                "playerIndex": 0,
+                "startFrame": 1330,
+                "startPercent": 0
+            },
+            {
+                "count": 2,
+                "currentPercent": 105.25999450683594,
+                "deathAnimation": 1,
+                "endFrame": 5729,
+                "endPercent": 105.25999450683594,
+                "playerIndex": 0,
+                "startFrame": 2961,
+                "startPercent": 0
+            },
+            {
+                "count": 3,
+                "currentPercent": 127.31842041015625,
+                "deathAnimation": 0,
+                "endFrame": 7208,
+                "endPercent": 127.31842041015625,
+                "playerIndex": 1,
+                "startFrame": 3651,
+                "startPercent": 0
+            },
+            {
+                "count": 1,
+                "currentPercent": 143.21002197265625,
+                "deathAnimation": 0,
+                "endFrame": 11505,
+                "endPercent": 143.21002197265625,
+                "playerIndex": 0,
+                "startFrame": 5789,
+                "startPercent": 0
+            },
+            {
+                "count": 2,
+                "currentPercent": 52.519996643066406,
+                "deathAnimation": null,
+                "endFrame": null,
+                "endPercent": null,
+                "playerIndex": 1,
+                "startFrame": 7268,
+                "startPercent": 0
+            }
+        ]
+    }
+}
