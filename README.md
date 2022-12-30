@@ -1,4 +1,4 @@
-# Slippi-stats
+# Slippi-statss
 
 Slippi stats is a collection of python scripts that use matplotlib to generate graphs of game data. 
 
