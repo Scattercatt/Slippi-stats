@@ -18,6 +18,10 @@ An example command would look like this:
 python -u slp_stats.py -n "SCTR#790" -s "lcancels" -c "Ganondorf"
 ```
 
+## Where do I put my slippi files to generate stats?
+
+In your cloned repo directory, create a folder called `slpfiles`. This is where you will put all of your .slp files to be analyzed.
+
 ## Dependencies
 
 Make sure to run the following command to install [slippi-js](https://github.com/project-slippi/slippi-js) before trying to run any of the scripts
