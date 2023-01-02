@@ -11,12 +11,13 @@ def main(
 
     plt.style.use('seaborn-paper')
 
-    lcancels_sp = StatParser(player_code, character)
+    sp = StatParser(player_code, character)
 
-    lcancels_sp.populate_lcancelratio()
+    #lcancels_sp.populate_neutralwinratio()
 
+    sp.populate_stat(stat = stat)
     
-    plt.plot(lcancels_sp.x_axis, lcancels_sp.y_axis)
+    plt.plot(sp.x_axis, sp.y_axis)
     plt.title('LCancel stats vs time', fontsize=14)
     plt.xlabel('Time', fontsize=14)
     plt.ylabel('Amount', fontsize=14)

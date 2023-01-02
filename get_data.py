@@ -10,7 +10,7 @@ def get_slp_jsons(short_game_purge: bool = True, no_target_player_purge: bool = 
         if re.search(r"\.slp", file_name):
             json_slp_file_name = os.path.splitext(file_name)[0] + ".json"
             if json_slp_file_name in all_dirs:
-                print(f"Using existing json file for {file_name}.")
+                #print(f"Using existing json file for {file_name}.")
                 with open(json_slp_file_name, "r") as json_file:
                     json_load = json.load(json_file)
                     if json_load["metadata"] is not False:
@@ -96,6 +96,8 @@ def get_data_from_jsons(jsons: list, target_name: str, stat_path: list):
                 
         data.append(stat.copy() if isinstance(stat, dict) else stat)
     
+    if data is None:
+        print(f"WARNING: Returning None")
     return data
 
 def character_to_id(character_name: str):
